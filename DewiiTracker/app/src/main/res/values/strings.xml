@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">E911 Indoor Testing</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="map_name">Map Name:</string>
+    <string name="map_created_by">Map Created By:</string>
+    <string name="calling_number">Calling Number:</string>
+    <string name="call_duration">Call Duration:</string>
+    <string name="destination_ip_address">Destination IP Address</string>
+    <string name="trigger_type">Trigger Type:</string>
+    <string name="distance_based">Distance-Based</string>
+    <string name="time_based">Time-Based</string>
+    <string name="submit">Submit</string>
+    <string name="clear_previous_data">Clear Previous Data</string>
+    <string name="location_fetch_state">Location fetch state</string>
+</resources>
