@@ -91,5 +91,25 @@
       <option name="name" value="$PROJECT_DIR$/../../../../../IMPORTANT/AndroidSDK/Android/Sdk/extras/m2repository" />
       <option name="url" value="file:$PROJECT_DIR$/../../../../../../New%20Volume/IMPORTANT/AndroidSDK/Android/Sdk/extras/m2repository/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="$USER_HOME$/Android/Sdk/extras/android/m2repository" />
+      <option name="name" value="$USER_HOME$/Android/Sdk/extras/android/m2repository" />
+      <option name="url" value="file:$USER_HOME$/Android/Sdk/extras/android/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenLocal" />
+      <option name="name" value="MavenLocal" />
+      <option name="url" value="file:$USER_HOME$/.m2/repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="$USER_HOME$/Android/Sdk/extras/google/m2repository" />
+      <option name="name" value="$USER_HOME$/Android/Sdk/extras/google/m2repository" />
+      <option name="url" value="file:$USER_HOME$/Android/Sdk/extras/google/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="$USER_HOME$/Android/Sdk/extras/m2repository" />
+      <option name="name" value="$USER_HOME$/Android/Sdk/extras/m2repository" />
+      <option name="url" value="file:$USER_HOME$/Android/Sdk/extras/m2repository" />
+    </remote-repository>
   </component>
 </project>

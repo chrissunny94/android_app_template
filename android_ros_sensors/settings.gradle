@@ -15,14 +15,14 @@
  */
 
 include "android_core_components"
-include "android_acm_serial"
-include "android_benchmarks"
-include "android_tutorial_camera"
-include "android_tutorial_image_transport"
-include "android_tutorial_map_viewer"
-include "android_tutorial_pubsub"
-include "android_tutorial_teleop"
-include "docs"
+//include "android_acm_serial"
+//include "android_benchmarks"
+//include "android_tutorial_camera"
+//include "android_tutorial_image_transport"
+//include "android_tutorial_map_viewer"
+//include "android_tutorial_pubsub"
+//include "android_tutorial_teleop"
+//include "docs"
 include "android_tutorial_camera_imu"
 
 // TODO(damonkohler): The following projects are not included in the

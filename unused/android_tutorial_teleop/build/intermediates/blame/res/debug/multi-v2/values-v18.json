@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chris/Desktop/diljendrajit/ANDROID/android_ros_sensors/android_tutorial_teleop/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8083cbcc1ae747a15543b53e6b0b7316/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
