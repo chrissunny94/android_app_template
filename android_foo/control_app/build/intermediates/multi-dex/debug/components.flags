@@ -1,0 +1,42 @@
+-injars '/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar'
+-outjars '/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars '/mnt/New Volume/IMPORTANT/AndroidSDK/Android/Sdk/build-tools/21.1.2/lib/shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration '/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/multi-dex/debug/components.flags'
+
+
+-keep class com.robotca.ControlApp.RobotChooser {
+    <init>();
+}
+
+-keep class com.robotca.ControlApp.ControlApp {
+    <init>();
+}
+
+-keep class com.robotca.ControlApp.SplashActivity {
+    <init>();
+}
+
+-keep class org.ros.android.MasterChooser {
+    <init>();
+}
+
+-keep class org.ros.android.NodeMainExecutorService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

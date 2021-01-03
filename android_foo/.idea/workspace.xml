@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6093856-d985-42b4-958d-e9141d5f1742" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.catkin_workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../.catkin_workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Release/control_app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Release/control_app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/.catkin" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/.catkin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/.rosinstall" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/_setup_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/_setup_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/env.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/setup.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/setup.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/setup.zsh" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/setup.zsh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/android_foo/cmake/android_fooConfig-version.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/android_foo/cmake/android_fooConfig.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/0.1.0/control_app-0.1.0.apk.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/0.1.0/control_app-0.1.0.apk.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/0.1.0/control_app-0.1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/0.1.0/control_app-0.1.0.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/0.1.0/control_app-0.1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/unspecified/control_app-unspecified.apk.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/unspecified/control_app-unspecified.apk.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/unspecified/control_app-unspecified.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/unspecified/control_app-unspecified.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app/unspecified/control_app-unspecified.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/0.1.0/control_app_lib-0.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/0.1.0/control_app_lib-0.1.0.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/0.1.0/control_app_lib-0.1.0.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/0.1.0/control_app_lib-0.1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/0.1.0/control_app_lib-0.1.0.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/0.1.0/control_app_lib-0.1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/unspecified/control_app_lib-unspecified.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/unspecified/control_app_lib-unspecified.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/unspecified/control_app_lib-unspecified.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/unspecified/control_app_lib-unspecified.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/unspecified/control_app_lib-unspecified.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/share/maven/com/github/rosjava/android_foo/control_app_lib/unspecified/control_app_lib-unspecified.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/libs/osmbonuspack_v5.8.1.aar" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/libs/osmbonuspack_v5.8.1.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/androidTest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/androidTest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/ControlModeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/ControlModeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/LocationProviderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/LocationProviderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/Plans/RobotPlanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/Plans/RobotPlanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/RobotControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Core/RobotControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Fragments/HUDFragmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/Fragments/HUDFragmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/RobotChooserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/androidTest/java/com/robotca/ControlApp/RobotChooserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/ControlApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/ControlApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/ControlMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/ControlMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/DrawerItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/DrawerItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/IWaypointProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/IWaypointProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/LocationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/LocationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/NavDrawerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/NavDrawerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/RandomWalkPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/RandomWalkPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/RobotPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/RobotPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/SimpleWaypointPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/SimpleWaypointPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/WaypointPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Plans/WaypointPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotController.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotInfoAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotInfoAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/RobotStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Savable.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Savable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/WarningSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Core/WarningSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Dialogs/AddEditRobotDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Dialogs/AddEditRobotDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Dialogs/ConfirmDeleteDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Dialogs/ConfirmDeleteDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/AboutFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/AboutFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/AboutFragmentRobotChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/AboutFragmentRobotChooser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/CameraViewFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/CameraViewFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/HUDFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/HUDFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/HelpFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/HelpFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/JoystickFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/JoystickFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/LaserScanFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/LaserScanFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/MapFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/MapFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/OverviewFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/OverviewFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PageOneFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PageOneFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PageThreeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PageThreeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PageTwoFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PageTwoFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PreferencesFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PreferencesFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/RosFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/RosFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/SimpleFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/SimpleFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Layers/LaserScanRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Layers/LaserScanRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/RobotChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/RobotChooser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/ToolbarActionItemTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/ToolbarActionItemTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Views/BetterEditTextPreference.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Views/BetterEditTextPreference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Views/JoystickView.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Views/JoystickView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Views/LaserScanView.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Views/LaserScanView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/anim/slide_in_top.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/anim/slide_in_top.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/anim/slide_out_bottom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/anim/slide_out_bottom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/drawer_shadow.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/drawer_shadow.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_gamepad.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_gamepad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_good.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_good.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_group.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_group.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_labels.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_labels.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_prefs.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_prefs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_topics.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_topics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_video.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_action_video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_add_circle_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_add_circle_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_android_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_android_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_edit_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_edit_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_flag_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_flag_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_help_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_help_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_info_outline_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_info_outline_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_linked_camera_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_linked_camera_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_navigation_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_navigation_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_settings_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_settings_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_settings_ethernet_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_settings_ethernet_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_terrain_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_terrain_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_view_quilt_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_view_quilt_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_view_quilt_black_48dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_view_quilt_black_48dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_warning_system.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/ic_warning_system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/marker.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/marker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/marker2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/marker2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/user1.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/user1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/user2.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-hdpi/user2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-ldpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-ldpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_gamepad.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_gamepad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_good.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_good.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_group.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_group.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_labels.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_labels.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_prefs.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_prefs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_topics.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_topics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_video.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_action_video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_add_circle_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_add_circle_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_android_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_android_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_drawer.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_drawer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_edit_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_edit_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_flag_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_flag_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_help_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_help_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_info_outline_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_info_outline_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_linked_camera_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_linked_camera_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_navigation_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_navigation_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_settings_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_settings_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_settings_ethernet_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_settings_ethernet_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_terrain_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_terrain_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_view_quilt_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_view_quilt_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_view_quilt_black_48dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_view_quilt_black_48dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_warning_system.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/ic_warning_system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/user1.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/user1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/user2.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-mdpi/user2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_gamepad.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_gamepad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_good.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_good.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_group.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_group.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_labels.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_labels.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_prefs.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_prefs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_topics.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_topics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_video.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_action_video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_add_circle_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_add_circle_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_android_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_android_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_edit_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_edit_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_flag_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_flag_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_help_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_help_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_info_outline_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_info_outline_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_linked_camera_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_linked_camera_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_navigation_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_navigation_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_settings_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_settings_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_settings_ethernet_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_settings_ethernet_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_terrain_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_terrain_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_view_quilt_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_view_quilt_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_view_quilt_black_48dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_view_quilt_black_48dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_warning_system.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/ic_warning_system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/user1.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/user1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/user2.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xhdpi/user2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_gamepad.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_gamepad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_good.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_good.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_group.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_group.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_labels.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_labels.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_prefs.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_prefs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_topics.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_topics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_video.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_action_video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_add_circle_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_add_circle_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_android_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_android_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_edit_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_edit_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_flag_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_flag_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_help_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_help_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_info_outline_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_info_outline_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_linked_camera_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_linked_camera_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_navigation_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_navigation_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_settings_ethernet_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_settings_ethernet_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_terrain_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_terrain_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_view_quilt_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_view_quilt_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_view_quilt_black_48dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_view_quilt_black_48dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_warning_system.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ic_warning_system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ros_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/ros_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/user1.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/user1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/user2.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxhdpi/user2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_add_circle_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_add_circle_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_android_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_android_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_delete_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_delete_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_edit_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_edit_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_flag_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_flag_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_help_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_help_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_info_outline_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_info_outline_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_linked_camera_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_linked_camera_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_navigation_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_navigation_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_settings_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_settings_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_settings_ethernet_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_settings_ethernet_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_terrain_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_terrain_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_view_quilt_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_view_quilt_black_24dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_view_quilt_black_48dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable-xxxhdpi/ic_view_quilt_black_48dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/background_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/background_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/gps.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/gps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/speedometer.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/speedometer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/drawable/wifi_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout-land/fragment_overview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout-land/fragment_overview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout-land/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout-land/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout-large/fragment_hud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout-large/fragment_hud.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout-normal/fragment_hud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout-normal/fragment_hud.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/actionbar_dropdown_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/actionbar_dropdown_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/dialog_add_robot.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/dialog_add_robot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_camera_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_camera_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_help.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_help.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_joystick_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_joystick_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_laser_scan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_laser_scan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_map.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_overview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/fragment_overview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/nav_drawer_menu_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/nav_drawer_menu_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/pageone_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/pageone_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/pagethree_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/pagethree_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/pagetwo_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/pagetwo_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/robot_chooser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/robot_chooser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/layout/robot_info_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/layout/robot_info_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/menu/menu_control_app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/menu/menu_control_app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/menu/menu_robot_chooser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/menu/menu_robot_chooser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/raw/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/raw/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/raw/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/raw/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/raw/setup.html" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/raw/setup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/raw/using.html" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/raw/using.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/main/res/xml/prefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/main/res/xml/prefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/test/java/com/robotca/ControlApp/Core/RobotInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/test/java/com/robotca/ControlApp/Core/RobotInfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app/src/test/java/com/robotca/ControlApp/Core/UtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_app/src/test/java/com/robotca/ControlApp/Core/UtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/src/main/res/drawable-ldpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/src/main/res/drawable-ldpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/src/main/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_app_lib/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control_app_lib/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[CSTDU16921001130]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../Release/key.jks" />
+    <option name="KEY_ALIAS" value="RobotCA key" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1lSII09mQP1b8mV3R3M9w2nJ0q7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.1.2:5555" />
+    <property name="DEBUGGABLE_DEVICE" value="oneplus-a0001-192.168.1.2:5555" />
+    <property name="DEBUGGABLE_PROCESS" value="com.robotca.ControlApp" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/control_app" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1609675329999" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="Android App.control_app">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android_foo.control_app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="control_app" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="control_app" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/chris/Desktop/diljendrajit/ANDROID/RobotCA/src/android_foo/settings.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/settings.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./home/chris/Desktop/diljendrajit/ANDROID/RobotCA/src/android_foo/settings.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6093856-d985-42b4-958d-e9141d5f1742" name="Default" comment="" />
+      <created>1463265227271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463265227271</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fix control issues, icons, preferences, and dependencies">
+      <created>1463274075270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463274075270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix control issues, icons, preferences, and dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix control issues, icons, preferences, and dependencies" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="277" width="573" height="491" key="FileChooserDialogImpl" timestamp="1607918748122">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="743" y="277" width="573" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1607918748122" />
+    <state width="1870" height="251" key="GridCell.Tab.0.bottom" timestamp="1609675688549">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="1870" height="251" key="GridCell.Tab.0.bottom/0.27.1920.983/1920.0.1920.1080@0.27.1920.983" timestamp="1609675688549" />
+    <state width="1874" height="253" key="GridCell.Tab.0.bottom/0.27.1920.985@0.27.1920.985" timestamp="1607924452734" />
+    <state width="1870" height="251" key="GridCell.Tab.0.center" timestamp="1609675688549">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="1870" height="251" key="GridCell.Tab.0.center/0.27.1920.983/1920.0.1920.1080@0.27.1920.983" timestamp="1609675688549" />
+    <state width="1874" height="253" key="GridCell.Tab.0.center/0.27.1920.985@0.27.1920.985" timestamp="1607924452732" />
+    <state width="1870" height="251" key="GridCell.Tab.0.left" timestamp="1609675688549">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="1870" height="251" key="GridCell.Tab.0.left/0.27.1920.983/1920.0.1920.1080@0.27.1920.983" timestamp="1609675688549" />
+    <state width="1874" height="253" key="GridCell.Tab.0.left/0.27.1920.985@0.27.1920.985" timestamp="1607924452732" />
+    <state width="1870" height="251" key="GridCell.Tab.0.right" timestamp="1609675688549">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="1870" height="251" key="GridCell.Tab.0.right/0.27.1920.983/1920.0.1920.1080@0.27.1920.983" timestamp="1609675688549" />
+    <state width="1874" height="253" key="GridCell.Tab.0.right/0.27.1920.985@0.27.1920.985" timestamp="1607924452733" />
+    <state x="471" y="27" width="1449" height="757" key="SettingsEditor" timestamp="1609674584733">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state x="471" y="27" width="1449" height="757" key="SettingsEditor/0.27.1920.983/1920.0.1920.1080@0.27.1920.983" timestamp="1609674584733" />
+    <state x="470" y="125" width="900" height="751" key="SettingsEditor/0.27.1920.985@0.27.1920.985" timestamp="1607918706776" />
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/0.27.3840.985@0.27.3840.985" timestamp="1607584375755" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/Fragments/PreferencesFragment.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/control_app/src/main/java/com/robotca/ControlApp/ControlApp.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

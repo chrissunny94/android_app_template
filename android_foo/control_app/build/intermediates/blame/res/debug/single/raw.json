@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/raw/setup.html",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/raw/setup.html"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/raw/about.html",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/raw/about.html"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/raw/using.html",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/raw/using.html"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/raw/faq.html",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/raw/faq.html"
+    }
+]

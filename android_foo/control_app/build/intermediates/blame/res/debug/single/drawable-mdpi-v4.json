@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_cling_normal.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-mdpi-v4/btn_cling_normal.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_settings.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/user1.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/user1.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_view_quilt_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_view_quilt_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_delete_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_gamepad.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_gamepad.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_cling_pressed.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-mdpi-v4/btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_linked_camera_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_linked_camera_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_email.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_email.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_add_circle_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_add_circle_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_settings_ethernet_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_settings_ethernet_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_about.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_about.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_good.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_good.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_warning_system.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_warning_system.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/hand.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-mdpi-v4/hand.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_overflow_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_labels.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_labels.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_copy_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_drawer.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_navigation_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_navigation_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_help_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_help_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_group.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_group.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_help.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_help.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_info_outline_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_camera.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_camera.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_video.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_video.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_flag_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_flag_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_settings_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_view_quilt_black_48dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_view_quilt_black_48dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_on_mtrl.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/user2.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/user2.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_import_export.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_import_export.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_off_mtrl.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_off_mtrl.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_material.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_clear_material.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_android_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_prefs.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_prefs.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_topics.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_topics.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_checked_mtrl.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cling.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-mdpi-v4/cling.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_terrain_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_terrain_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_cloud.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_action_cloud.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_edit_black_24dp.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

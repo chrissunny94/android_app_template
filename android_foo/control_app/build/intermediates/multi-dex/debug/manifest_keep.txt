@@ -1,0 +1,11 @@
+-keep class com.robotca.ControlApp.RobotChooser { <init>(); }
+-keep class com.robotca.ControlApp.ControlApp { <init>(); }
+-keep class com.robotca.ControlApp.SplashActivity { <init>(); }
+-keep class org.ros.android.MasterChooser { <init>(); }
+-keep class org.ros.android.NodeMainExecutorService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

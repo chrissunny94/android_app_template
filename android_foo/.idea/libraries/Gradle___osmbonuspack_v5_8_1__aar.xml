@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :osmbonuspack_v5.8.1:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/control_app/build/intermediates/exploded-aar/osmbonuspack_v5.8.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/control_app/build/intermediates/exploded-aar/osmbonuspack_v5.8.1/res" />
+      <root url="file://$PROJECT_DIR$/control_app/build/intermediates/exploded-aar/osmbonuspack_v5.8.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

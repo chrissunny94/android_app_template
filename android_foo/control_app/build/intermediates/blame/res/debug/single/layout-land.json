@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/layout-land/main.xml",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/layout-land/main.xml"
+    },
+    {
+        "merged": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/build/intermediates/res/merged/debug/layout-land/fragment_overview.xml",
+        "source": "/mnt/New Volume/WORK/diljendrajit/ANDROID/RobotCA/src/android_foo/control_app/src/main/res/layout-land/fragment_overview.xml"
+    }
+]
